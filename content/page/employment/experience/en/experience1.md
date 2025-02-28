@@ -2,7 +2,6 @@
 title: "Real Estate Accounting"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Real EState Accounting", "HGB", "Taxes", "Betriebskosten", "Financial Reporting"]
 toc: true
 noSummary: false

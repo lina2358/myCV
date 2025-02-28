@@ -2,7 +2,6 @@
 title: "Accounting and Management Support"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Accounting", "Tax Compliance", "IFRS", "Financial Reporting", "Business Management", "ERP Implementation", "Startup Finance", "HR", "Payroll Management", "Procurement", "Sales"]
 toc: true
 noSummary: false

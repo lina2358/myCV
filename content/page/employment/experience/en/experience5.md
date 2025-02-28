@@ -2,7 +2,6 @@
 title: "ERP Software Implementation"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Financial Analysis", "Tax Compliance", "Financial Reporting", "ERP Implementation", "Database Analytics", "SQL", "Python", "Startup Finance", "Customer Service", "Sales Support", "Payroll Management"]
 toc: true
 noSummary: false

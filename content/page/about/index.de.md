@@ -4,6 +4,9 @@ date: 2021-11-01T18:10:14+01:00
 
 noSummary: false
 showDate: false
+categories: ["About Me"]
+icon: "fa-rocket"
+type: article
 ---
 
 ## Hallo, mein Name ist Lina Avendaño und ich komme aus Kolumbien

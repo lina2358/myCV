@@ -2,7 +2,6 @@
 title: "Food Service Entrepreneurship"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Financial Analysis", "Tax Compliance", "IFRS", "Business Management", "ERP Implementation", "Database Analytics", "Startup Finance", "POS Management"]
 toc: true
 noSummary: false

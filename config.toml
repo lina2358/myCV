@@ -28,9 +28,9 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
+  author = "Lina Avendaño"
+  description = "My CV"
+  keywords = "finance professional, accounting, business consultant, ERP systems specialist, fintech expert, sql, python, Entrepreneur, business development, ecommerce"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -137,7 +137,7 @@ disqusShortname = ""
     amountCategoriesInFooter = 7
 
     # show a language chooser in the footer
-    showFooterLanguageChooser = true
+    showFooterLanguageChooser = false
 
     # social media profile urls for the footer links
     showSocialMedia = true
@@ -157,11 +157,11 @@ disqusShortname = ""
     archiveDateGrouping = "2006-01"
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Lina Avendano"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
-    creditsText = "Bilberry Hugo Theme"
+    copyrightUrl = "https://github.com/lina2358"
+    creditsText = "Based on Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
@@ -172,12 +172,12 @@ disqusShortname = ""
     weight = 1
   [Languages.de]
     weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+    title = "Lina Avendaño"
+    subtitle = "Bridging Business, Finance & Tech with an Entrepreneurial Mindset"
   [Languages.es]
     weight = 3
-    title = "Mi CV en español"
-    subtitle = "Hola gente!"
+    title = "Lina Avendaño"
+    subtitle = "Bridging Business, Finance & Tech with an Entrepreneurial Mindset"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'

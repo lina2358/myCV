@@ -2,7 +2,6 @@
 title: "Online Fashion Entrepreneurship"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Business Management", "Startup Finance", "Procurement", "Sales", "Marketing", "Customer Service"]
 toc: true
 noSummary: false

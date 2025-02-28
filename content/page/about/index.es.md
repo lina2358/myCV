@@ -1,9 +1,12 @@
 ---
-title: "Mi Historia"
+title: "Sobre mí"
 date: 2021-11-01T18:10:14+01:00
 
 noSummary: false
 showDate: false
+categories: ["About Me"]
+icon: "fa-rocket"
+type: article
 ---
 
 ## Hola, mi nombre es Lina Avendaño y soy de Colombia

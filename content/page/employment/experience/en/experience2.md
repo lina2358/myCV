@@ -2,7 +2,6 @@
 title: "Accounting, Finance, and Management"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Financial Analysis", "Tax Compliance", "IFRS", "Financial Reporting", "Business Management", "ERP Implementation", "Startup Finance", "Payroll Management"]
 toc: true
 noSummary: false

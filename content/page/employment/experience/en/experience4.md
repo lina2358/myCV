@@ -2,7 +2,6 @@
 title: "CEO"
 date: 2025-02-26T11:40:54+01:00
 excludeFromTopNav: true
-categories: ["Experience"]
 tags: ["Financial Analysis", "Tax Compliance", "IFRS", "Financial Reporting", "Business Management", "ERP Implementation", "Database Analytics", "SQL", "Python", "Ecommerce Management", "Startup Finance", "General Management", "Logistics", "Procurement", "Payroll Management", "International Reporting"]
 toc: true
 noSummary: false
