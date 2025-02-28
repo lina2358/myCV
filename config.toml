@@ -120,7 +120,7 @@ disqusShortname = ""
     dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = true
+    showReadingTime = false
 
     # Minimum word count to display the Table of Contents
     tocMinWordCount = 400
